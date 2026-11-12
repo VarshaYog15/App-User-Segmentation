@@ -1,0 +1,5 @@
+cluster,engagement_score,churn_risk_score,age,sessions_per_week,daily_active_minutes,days_since_last_login,crash_events_last_30_days,support_tickets_raised
+0,65.01,0.5,38.5,7.64,45.25,10.57,0.24,0.12
+1,64.86,0.5,38.52,7.65,45.2,33.43,0.25,0.12
+2,64.99,0.5,38.52,10.27,45.24,22.22,0.3,0.15
+3,64.9,0.51,38.52,7.81,44.69,21.93,1.49,0.74

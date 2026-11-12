@@ -1,0 +1,5 @@
+cluster,segment_name,key_finding,business_action
+0,Recently Active Users,"Users logged in more recently, averaging 10.57 days since last login.",Maintain engagement through relevant content and feature updates.
+1,Less Recently Active Users,Users have an average of 33.43 days since last login.,Test re-engagement notifications and targeted campaigns.
+2,High Usage Frequency Users,Users average 10.27 sessions per week.,Collect feedback and improve the frequent-use experience.
+3,High App Friction Users,Users average 1.49 crashes and 0.74 support tickets.,"Prioritise crash investigation, bug fixes and support improvements."

@@ -1,0 +1,27 @@
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Editor settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Intermediate datasets
+outputs/candidate_app_user_data.csv
+outputs/cleaned_app_user_data.csv
+outputs/engineered_app_user_data.csv
+outputs/scaled_app_user_data.csv

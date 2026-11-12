@@ -1,0 +1,5 @@
+cluster,usage_intensity,interaction_intensity,content_engagement,notifications_opened_per_week,days_since_last_login,app_friction_score
+0,79.62,29.43,4.99,4.89,10.57,0.36
+1,78.56,29.54,5.0,5.1,33.43,0.37
+2,271.23,29.41,5.06,5.0,22.22,0.45
+3,92.43,29.57,5.0,5.0,21.93,2.23
